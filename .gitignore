@@ -1,0 +1,7 @@
+webpack.config.prod.js
+dist/
+node_modules/
+package-lock.json
+package.json
+tsconfig.json
+webpack.config.js
